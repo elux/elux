@@ -1,0 +1,3 @@
+[submodule "eluxlab"]
+	path = eluxlab
+	url = https://github.com/elux/eluxlab.git
